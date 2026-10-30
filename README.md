@@ -15,7 +15,7 @@ Lo que más me interesa es medir si un modelo funciona de verdad: evaluación si
 ## Trabajo que no está público
 
 - **MapBiomas Fuego Colombia** (asistente de investigación, Universidad del Rosario): validación estadística del mapa nacional de áreas quemadas y selección de variables para la siguiente versión.
-- **Agenda y agente de WhatsApp para una clínica familiar:** agenda en producción y agente con LLM en piloto (Next.js, Postgres, Claude API). El código es privado porque maneja datos de salud.
+- **Agenda y agente de WhatsApp para una clínica de medicina integrativa:** agenda en producción y agente con LLM con herramientas de reserva (Next.js, Postgres, Claude API). El código es privado porque maneja datos de salud.
 - **Asistente personal en Telegram:** agente con herramientas desplegado en Oracle Cloud (Python, PydanticAI).
 
 Puedo explicarlos en detalle en una conversación. Parte de mi código lo escribo con asistencia de IA (Claude Code).
@@ -38,7 +38,7 @@ Applied machine learning, LLM systems and remote sensing. Dual degrees in Applie
 **Work that is not public**
 
 - **MapBiomas Fuego Colombia** (research assistant, Universidad del Rosario): statistical validation of the national burned-area map and feature selection for the next version.
-- **Appointment system and WhatsApp agent for a family clinic:** system in production and an LLM agent in pilot (Next.js, Postgres, Claude API). Private because it handles health data.
+- **Appointment system and WhatsApp agent for an integrative medicine clinic:** system in production and an LLM agent with booking tools (Next.js, Postgres, Claude API). Private because it handles health data.
 - **Personal assistant on Telegram:** tool-using agent deployed on Oracle Cloud (Python, PydanticAI).
 
 Happy to walk through them in a conversation. Part of my code is written with AI assistance (Claude Code).
